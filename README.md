@@ -1,8 +1,8 @@
-## 🐬 Miles
+## 🐬 박용준
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:9898junjun2@gmail.com)](mailto:9898junjun2@gmail.com)
 
-보이지 않는 가치를 찾는 개발자 **Miles**입니다.
+보이지 않는 가치를 찾는 개발자 **박용준**입니다.
 
 
 ## 🐵 Programming Language
