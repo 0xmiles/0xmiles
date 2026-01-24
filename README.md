@@ -63,7 +63,8 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-![snake gif](https://github.com/0xmiles/0xmiles/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/0xmiles/0xmiles/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 ---
 
@@ -71,7 +72,7 @@
 
 ### 👀 Profile Views
   
-![Profile Views](https://komarev.com/ghpvc/?username=kyoongdev&color=E94560&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=0xmiles&color=E94560&style=for-the-badge&label=PROFILE+VIEWS)
 
 <br>
 
