@@ -63,9 +63,7 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</div>
+![snake gif](https://github.com/0xmiles/0xmiles/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
